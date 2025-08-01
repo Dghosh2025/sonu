@@ -47,5 +47,37 @@ h1{
     rotate: -45deg;
 }
 #rhombus:hover{
-    background-color: chocolate;
+    background-color:forestgreen;
+}
+#game{
+     background-color: aqua;
+     color: green;
+     display: inline-block;
+     border-radius: 15%;
+     border-top: 10px;
+     border-style: solid;
+}
+body{
+    background-color:lightgoldenrodyellow;
+    text-align: center;
+}
+#info{
+    text-align: left;
+}
+#intro{
+    margin-top: 2%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: ridge;
+    border-width: 2%;
+    border-color: rgb(94, 94, 167);
+    display:inline-block;
+    background-color: coral;
+}
+#color{
+    text-align: center;
+    margin-bottom: 5%;
+    color: darkseagreen;
+    border-style:inset;
+    display: inline-block;
+    border-color:goldenrod;
 }
